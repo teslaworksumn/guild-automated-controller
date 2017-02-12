@@ -10,6 +10,6 @@ Serial events are sent from
 
 ==========
 ### TODO
-This repo doesn't work that well,
-maybe replace with [Marlin](https://github.com/teslaworksumn/guild-marlin-fw)
+This repo doesn't work well,
+replace with [Marlin](https://github.com/teslaworksumn/guild-marlin-fw)
 
